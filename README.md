@@ -56,3 +56,5 @@ Open [http://localhost:5000/connection](http://localhost:5000/connection) in a w
 ```shell
   npm run server
 ```
+
+![This is an image]()
