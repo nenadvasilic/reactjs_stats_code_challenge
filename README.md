@@ -57,4 +57,4 @@ Open [http://localhost:5000/connection](http://localhost:5000/connection) in a w
   npm run server
 ```
 
-![This is an image]()
+![This is an image](https://github.com/nenadvasilic/reactjs_stats_code_challenge/blob/main/public/216.jpg?raw=true)
